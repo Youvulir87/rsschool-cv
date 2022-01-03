@@ -3,7 +3,7 @@
 ## About Me
 
 
-My name is *Yury Vaskou*. I am front-end student.
+My name is *Yury Vaskou*. I am front-end student. I like HTML+CSS+JS.
 -------
 ## Contacts
 
