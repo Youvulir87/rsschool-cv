@@ -9,7 +9,7 @@ My name is *Yury Vaskou*. I am front-end student.
 
 
 * +375291122479
-* [My Telegram](@youvulir "Telegram")
+* [My Telegram](https://t.me/Youvulir "Telegram")
 -------
 ## Aducation
 
